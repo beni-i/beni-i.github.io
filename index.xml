@@ -8,12 +8,48 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://beni-i.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 01</title>
+      <title>Sobre Mi</title>
+      <link>https://beni-i.github.io/docs/post_0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_0/</guid>
+      <description>Información Personal.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 01</title>
       <link>https://beni-i.github.io/docs/post_1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beni-i.github.io/docs/post_1/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 02</title>
+      <link>https://beni-i.github.io/docs/post_2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_2/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 03</title>
+      <link>https://beni-i.github.io/docs/post_3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_3/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 04</title>
+      <link>https://beni-i.github.io/docs/post_4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_4/</guid>
+      <description>Cuarto encargo.</description>
     </item>
     
     <item>
