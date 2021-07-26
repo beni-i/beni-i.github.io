@@ -142,5 +142,23 @@
       <description>Un clasico, basico, de la electronica</description>
     </item>
     
+    <item>
+      <title>Iteración Drawdio</title>
+      <link>https://beni-i.github.io/docs/post_15/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_15/</guid>
+      <description>Mi Performance</description>
+    </item>
+    
+    <item>
+      <title>Speculative Everything</title>
+      <link>https://beni-i.github.io/docs/post_16/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_16/</guid>
+      <description>Reflexion</description>
+    </item>
+    
   </channel>
 </rss>
