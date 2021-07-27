@@ -160,5 +160,23 @@
       <description>Reflexion</description>
     </item>
     
+    <item>
+      <title>Básicos de Arduino</title>
+      <link>https://beni-i.github.io/docs/post_19/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_19/</guid>
+      <description>Tutoriales</description>
+    </item>
+    
+    <item>
+      <title>Iteración Arduino</title>
+      <link>https://beni-i.github.io/docs/post_20/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_20/</guid>
+      <description>Reflexión</description>
+    </item>
+    
   </channel>
 </rss>
