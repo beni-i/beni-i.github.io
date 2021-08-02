@@ -193,7 +193,25 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beni-i.github.io/docs/post_20/</guid>
+      <description>Proyecto</description>
+    </item>
+    
+    <item>
+      <title>American Factory</title>
+      <link>https://beni-i.github.io/docs/post_21/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_21/</guid>
       <description>Reflexión</description>
+    </item>
+    
+    <item>
+      <title>DIY Sensor</title>
+      <link>https://beni-i.github.io/docs/post_22/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_22/</guid>
+      <description>Sensor de presión</description>
     </item>
     
   </channel>
