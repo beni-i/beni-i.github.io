@@ -214,5 +214,14 @@
       <description>Sensor de presión</description>
     </item>
     
+    <item>
+      <title>Mas Arduino</title>
+      <link>https://beni-i.github.io/docs/post_23/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_23/</guid>
+      <description>Tutoriales Arduino</description>
+    </item>
+    
   </channel>
 </rss>
