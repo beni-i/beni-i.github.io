@@ -223,5 +223,14 @@
       <description>Tutoriales Arduino</description>
     </item>
     
+    <item>
+      <title>Sensor Tilt On/Off</title>
+      <link>https://beni-i.github.io/docs/post_24/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_24/</guid>
+      <description>Reloj de Arena Digital</description>
+    </item>
+    
   </channel>
 </rss>
