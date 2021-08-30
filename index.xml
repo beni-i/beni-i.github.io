@@ -241,5 +241,23 @@
       <description>Presentación Tematicas</description>
     </item>
     
+    <item>
+      <title>Prototipo</title>
+      <link>https://beni-i.github.io/docs/post_26/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_26/</guid>
+      <description>Testeo de Prototipo</description>
+    </item>
+    
+    <item>
+      <title>SoundWear</title>
+      <link>https://beni-i.github.io/docs/post_27/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_27/</guid>
+      <description>Presentacion Pre-Examen</description>
+    </item>
+    
   </channel>
 </rss>
