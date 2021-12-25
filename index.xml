@@ -252,11 +252,20 @@
     
     <item>
       <title>SoundWear</title>
+      <link>https://beni-i.github.io/docs/post_27-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_27-copy/</guid>
+      <description>Presentacion Pre-Examen</description>
+    </item>
+    
+    <item>
+      <title>Lampara Fibonacci</title>
       <link>https://beni-i.github.io/docs/post_27/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beni-i.github.io/docs/post_27/</guid>
-      <description>Presentacion Pre-Examen</description>
+      <description>Lampara para Nicolas Wolff</description>
     </item>
     
   </channel>
