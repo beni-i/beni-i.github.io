@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clemente Benavides on Clemente Benavides - MID 2021</title>
+    <title>Clemente Benavides on Clemente Benavides - PORTAFOLIO</title>
     <link>https://beni-i.github.io/</link>
-    <description>Recent content in Clemente Benavides on Clemente Benavides - MID 2021</description>
+    <description>Recent content in Clemente Benavides on Clemente Benavides - PORTAFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://beni-i.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -17,88 +17,25 @@
     </item>
     
     <item>
-      <title>Ableton Live 10</title>
-      <link>https://beni-i.github.io/docs/post_10/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_10/</guid>
-      <description>Tutorial</description>
-    </item>
-    
-    <item>
-      <title>Planos de luz</title>
+      <title>Arquitectura</title>
       <link>https://beni-i.github.io/docs/post_1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beni-i.github.io/docs/post_1/</guid>
-      <description>Encargo 01</description>
+      <description>Planimetria y Modelacion 3D</description>
     </item>
     
     <item>
-      <title>Volumen de Luz</title>
-      <link>https://beni-i.github.io/docs/post_2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_2/</guid>
-      <description>Encargo 02</description>
-    </item>
-    
-    <item>
-      <title>Animaciones Digitales</title>
-      <link>https://beni-i.github.io/docs/post_3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_3/</guid>
-      <description>Encargo 03</description>
-    </item>
-    
-    <item>
-      <title>Narrativa Volumen de Luz</title>
-      <link>https://beni-i.github.io/docs/post_4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_4/</guid>
-      <description>Encargo 04</description>
-    </item>
-    
-    <item>
-      <title>Tutoriales Fusion 360</title>
-      <link>https://beni-i.github.io/docs/post_5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_5/</guid>
-      <description>Encargo 05</description>
-    </item>
-    
-    <item>
-      <title>Diseño Generativo</title>
-      <link>https://beni-i.github.io/docs/post_6/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_6/</guid>
-      <description>Encargo 06</description>
-    </item>
-    
-    <item>
-      <title>Electromovilidad</title>
-      <link>https://beni-i.github.io/docs/post_7/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_7/</guid>
-      <description>Benavides - Ogrodnik - Rodríguez</description>
-    </item>
-    
-    <item>
-      <title>Pre Examen</title>
+      <title>SUIBA (Recomendado)</title>
       <link>https://beni-i.github.io/docs/post_8/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beni-i.github.io/docs/post_8/</guid>
-      <description>Benavides - Ogrodnik - Rodríguez</description>
+      <description>Espacio Disponible</description>
     </item>
     
     <item>
-      <title>vJumper</title>
+      <title>vJumper (Recomendado)</title>
       <link>https://beni-i.github.io/docs/post_9/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -107,12 +44,75 @@
     </item>
     
     <item>
-      <title>Chicago Boys</title>
+      <title>Volumen de Luz</title>
+      <link>https://beni-i.github.io/docs/post_2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_2/</guid>
+      <description>Experimentos Audio Visuales</description>
+    </item>
+    
+    <item>
+      <title>Narrativa Volumen de Luz</title>
+      <link>https://beni-i.github.io/docs/post_3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_3/</guid>
+      <description>Experimento Audio Visual</description>
+    </item>
+    
+    <item>
+      <title>Otras Animaciones y Renders</title>
+      <link>https://beni-i.github.io/docs/post_7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_7/</guid>
+      <description>Compilado de diferentes trabajos</description>
+    </item>
+    
+    <item>
+      <title>Inventor</title>
+      <link>https://beni-i.github.io/docs/post_4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_4/</guid>
+      <description>Diseño y Mecanismos</description>
+    </item>
+    
+    <item>
+      <title>Fusion 360</title>
+      <link>https://beni-i.github.io/docs/post_5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_5/</guid>
+      <description>Algunos tutoriales y sus resultados</description>
+    </item>
+    
+    <item>
+      <title>Diseño Generativo</title>
+      <link>https://beni-i.github.io/docs/post_6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_6/</guid>
+      <description>Herramienta de Fusion 360</description>
+    </item>
+    
+    <item>
+      <title>Arduino</title>
       <link>https://beni-i.github.io/docs/post_11/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beni-i.github.io/docs/post_11/</guid>
-      <description>Resumen / reflexión</description>
+      <description>Compilado</description>
+    </item>
+    
+    <item>
+      <title>Story Board</title>
+      <link>https://beni-i.github.io/docs/post_13/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_13/</guid>
+      <description>Una simpatica historia</description>
     </item>
     
     <item>
@@ -125,147 +125,21 @@
     </item>
     
     <item>
-      <title>Plastilina Conductiva</title>
-      <link>https://beni-i.github.io/docs/post_13/</link>
+      <title>Ableton Live 10</title>
+      <link>https://beni-i.github.io/docs/post_10/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beni-i.github.io/docs/post_13/</guid>
-      <description>Un intento fallido</description>
+      <guid>https://beni-i.github.io/docs/post_10/</guid>
+      <description>Tutorial</description>
     </item>
     
     <item>
-      <title>Drawdio</title>
+      <title>Lámpara Fibonacci</title>
       <link>https://beni-i.github.io/docs/post_14/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beni-i.github.io/docs/post_14/</guid>
-      <description>Un clasico, basico, de la electronica</description>
-    </item>
-    
-    <item>
-      <title>Iteración Drawdio</title>
-      <link>https://beni-i.github.io/docs/post_15/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_15/</guid>
-      <description>Mi Performance</description>
-    </item>
-    
-    <item>
-      <title>Speculative Everything</title>
-      <link>https://beni-i.github.io/docs/post_16/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_16/</guid>
-      <description>Reflexion</description>
-    </item>
-    
-    <item>
-      <title>Helvetica</title>
-      <link>https://beni-i.github.io/docs/post_17/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_17/</guid>
-      <description>Documental</description>
-    </item>
-    
-    <item>
-      <title>Story Board</title>
-      <link>https://beni-i.github.io/docs/post_18/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_18/</guid>
-      <description>Reflexion</description>
-    </item>
-    
-    <item>
-      <title>Básicos de Arduino</title>
-      <link>https://beni-i.github.io/docs/post_19/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_19/</guid>
-      <description>Tutoriales</description>
-    </item>
-    
-    <item>
-      <title>Iteración Arduino</title>
-      <link>https://beni-i.github.io/docs/post_20/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_20/</guid>
-      <description>Proyecto</description>
-    </item>
-    
-    <item>
-      <title>American Factory</title>
-      <link>https://beni-i.github.io/docs/post_21/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_21/</guid>
-      <description>Reflexión</description>
-    </item>
-    
-    <item>
-      <title>DIY Sensor</title>
-      <link>https://beni-i.github.io/docs/post_22/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_22/</guid>
-      <description>Sensor de presión</description>
-    </item>
-    
-    <item>
-      <title>Mas Arduino</title>
-      <link>https://beni-i.github.io/docs/post_23/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_23/</guid>
-      <description>Tutoriales Arduino</description>
-    </item>
-    
-    <item>
-      <title>Sensor Tilt On/Off</title>
-      <link>https://beni-i.github.io/docs/post_24/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_24/</guid>
-      <description>Reloj de Arena Digital</description>
-    </item>
-    
-    <item>
-      <title>HandSignature</title>
-      <link>https://beni-i.github.io/docs/post_25/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_25/</guid>
-      <description>Presentación Tematicas</description>
-    </item>
-    
-    <item>
-      <title>Prototipo</title>
-      <link>https://beni-i.github.io/docs/post_26/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_26/</guid>
-      <description>Testeo de Prototipo</description>
-    </item>
-    
-    <item>
-      <title>SoundWear</title>
-      <link>https://beni-i.github.io/docs/post_27-copy/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_27-copy/</guid>
-      <description>Presentacion Pre-Examen</description>
-    </item>
-    
-    <item>
-      <title>Lampara Fibonacci</title>
-      <link>https://beni-i.github.io/docs/post_27/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_27/</guid>
-      <description>Lampara para Nicolas Wolff</description>
+      <description>Diseño personal</description>
     </item>
     
   </channel>
