@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>Narrativa Volumen de Luz</title>
-      <link>https://beni-i.github.io/docs/post_2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_2/</guid>
-      <description>Experimento Audio Visual</description>
-    </item>
-    
-    <item>
       <title>Otras Animaciones y Renders</title>
       <link>https://beni-i.github.io/docs/post_6/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -122,6 +113,15 @@
       
       <guid>https://beni-i.github.io/docs/post_12/</guid>
       <description>Diseño personal</description>
+    </item>
+    
+    <item>
+      <title>Narrativa Volumen de Luz</title>
+      <link>https://beni-i.github.io/docs/post_2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_2/</guid>
+      <description>Experimento Audio Visual</description>
     </item>
     
   </channel>
