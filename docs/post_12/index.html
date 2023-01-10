@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Lámpara Fibonacci - Clemente Benavides - PORTAFOLIO</title>
+  <title>Lámparas - Clemente Benavides - PORTAFOLIO</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://beni-i.github.io/favicon.png">
@@ -95,6 +95,10 @@
     </li>
     
     <li class="">
+      <a href="https://beni-i.github.io/docs/post_13/">The Upcycling Co.</a>
+    </li>
+    
+    <li class="">
       <a href="https://beni-i.github.io/docs/post_1/">Arquitectura</a>
     </li>
     
@@ -135,7 +139,7 @@
     </li>
     
     <li class="active ">
-      <a href="https://beni-i.github.io/docs/post_12/">Lámpara Fibonacci</a>
+      <a href="https://beni-i.github.io/docs/post_12/">Lámparas</a>
     </li>
     
     <li class="">
@@ -149,9 +153,28 @@
         </div>
         <div class="col-12 col-md-9">
           
-<h1 class="title">Lámpara Fibonacci</h1>
+<h1 class="title">Lámparas</h1>
 <div class="content ">
-  <p>Un diseño personal para mi emprendimiento.</p>
+  <h3 id="lámpara-bmw">Lámpara BMW</h3>
+<p>Lámpara circular para un showroom de automoviles de la marca BMW.</p>
+
+<iframe id='pdf-hugo' src='/pdf/Presupuesto%20BMW.pdf'
+frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:60vh;"></iframe>
+
+<button onclick="myFunction('pdf-hugo')" class="button button-primary mb-2" style="width: 100%;">Ver Pantalla Completa</button>
+
+<script>
+    function myFunction(id) {
+      document.getElementById(id).classList.add("full-screen");
+    }
+    document.addEventListener('keydown', function(event){
+	if(event.key === "Escape"){
+        document.getElementById('pdf-hugo').classList.remove("full-screen");
+	}
+});
+</script>
+<h3 id="lámpara-fibonacci">Lámpara Fibonacci</h3>
+<p>Un diseño personal para mi emprendimiento.</p>
 <p>
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 
@@ -296,24 +319,6 @@
     </iframe>    
 </div>
 <img src="/img/space2.png" alt="Logo"></p>
-<h1 id="lámpara-bmw">Lámpara BMW</h1>
-<p>Cotización de lámpara circular para un showroom de automoviles de la marca BMW.</p>
-
-<iframe id='pdf-hugo' src='/pdf/bmw.pdf'
-frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:60vh;"></iframe>
-
-<button onclick="myFunction('pdf-hugo')" class="button button-primary mb-2" style="width: 100%;">Ver Pantalla Completa</button>
-
-<script>
-    function myFunction(id) {
-      document.getElementById(id).classList.add("full-screen");
-    }
-    document.addEventListener('keydown', function(event){
-	if(event.key === "Escape"){
-        document.getElementById('pdf-hugo').classList.remove("full-screen");
-	}
-});
-</script>
 
 </div>
 </div>
